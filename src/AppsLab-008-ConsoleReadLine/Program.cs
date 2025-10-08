@@ -12,3 +12,11 @@ string? prveCislo = Console.ReadLine();
 string? druheCislo = Console.ReadLine();
 int sucet =  int.Parse(prveCislo) + int.Parse(druheCislo);
 Console.WriteLine($"Sucet: {sucet}");
+
+
+
+
+int rok = 10;
+int rok1 = 20;
+rok = 30;
+rok *= 5;

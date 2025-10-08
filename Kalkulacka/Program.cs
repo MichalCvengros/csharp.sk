@@ -5,7 +5,7 @@ Console.WriteLine("vyber si prve cislo");
 string? number1Text = Console.ReadLine();
 decimal number1 = decimal.Parse(number1Text);
 
-Console.WriteLine("+, -, /, *");
+Console.WriteLine("+, -, /, *, %");
 string? znamienko = Console.ReadLine();
 
 Console.WriteLine("vyber si druhe cislo");
@@ -32,4 +32,9 @@ else if (znamienko == "/")
 {
     decimal podiel = number1 / number2;
     Console.WriteLine("Je to " + podiel);
+}
+else if (znamienko == "%")
+{
+    decimal idk = number1 % number2;
+    Console.WriteLine("Je to " + idk);
 }
