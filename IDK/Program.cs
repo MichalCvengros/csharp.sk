@@ -1,9 +1,24 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Runtime.ExceptionServices;
 using System.Security.Cryptography;
 
-int i = 1;
-while (i <= 1000)
+
+
+for (int i = 1; i <= 1000; i++)
+{ 
+    int modulo = i % 2;
+    if (modulo == 0)
+    {
+        Console.WriteLine(i);
+    }  
+}
+
+
+
+int u = 1;
+
+while (u <= 1000)
 {
-    Console.WriteLine(i);
-    i++;
+    Console.WriteLine(u);
+    u++;
 }
