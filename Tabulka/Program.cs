@@ -3,11 +3,18 @@
 
 
 int[] numbers = new int[] { 10, 300, 20, 40, 50 };
-string[] names = new string[] { "Janko", "Fero", "Jozo", "Miro", "Laco" };
+string[] names = new string[] { "Jano", "Feri", "Jozo", "Miro", "Laco" };
 
-string[,] matrix = new string[30, 5];
-matrix[0, 2] = "Janko";
-matrix[1, 2] = "Fero";
+foreach (string name in names)
+{
+    Console.WriteLine("Ahoj " + name);
+}
+
+
+
+/*string[,] matrix = new string[30, 5];
+matrix[0, 2] = "Jano";
+matrix[1, 2] = "Feri";
 matrix[25, 4] = "Miro";
 
 for (int i = 0; i < 30; i++)
@@ -18,3 +25,4 @@ for (int i = 0; i < 30; i++)
     }
     Console.WriteLine();
 }
+*/

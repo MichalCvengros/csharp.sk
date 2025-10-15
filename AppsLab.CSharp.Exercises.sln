@@ -101,15 +101,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projekt if, else", "Projekt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kalkulacka", "Kalkulacka\Kalkulacka.csproj", "{FAF894EB-A533-4F0D-9C84-918261A01455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalkulacka switch", "Kalkulacka switch\Kalkulacka switch.csproj", "{1C24154D-580D-4C70-B167-930EF4932B0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kalkulacka switch", "Kalkulacka switch\Kalkulacka switch.csproj", "{1C24154D-580D-4C70-B167-930EF4932B0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example switch", "Example switch\Example switch.csproj", "{6C1921DE-7BAD-4FDF-A9E4-B14677955159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example switch", "Example switch\Example switch.csproj", "{6C1921DE-7BAD-4FDF-A9E4-B14677955159}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vypisovanie cisel", "IDK\Vypisovanie cisel.csproj", "{BAFB0BE1-2927-473C-9995-7DF9E8DE4082}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vypisovanie cisel", "IDK\Vypisovanie cisel.csproj", "{BAFB0BE1-2927-473C-9995-7DF9E8DE4082}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random", "Random\Random.csproj", "{553309F6-CA3A-4C25-A207-C4E09E7FCEA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Random", "Random\Random.csproj", "{553309F6-CA3A-4C25-A207-C4E09E7FCEA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabulka", "Tabulka\Tabulka.csproj", "{E4478AEF-B119-4948-9797-EB60F90E9519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tabulka", "Tabulka\Tabulka.csproj", "{E4478AEF-B119-4948-9797-EB60F90E9519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scitanie cisel", "Scitanie cisel\Scitanie cisel.csproj", "{2BA67598-10B8-47DF-AE2B-C67A2E1A840A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random cislo z klavesnice a z toho citanie", "random cislo z klavesnice a z toho citanie\random cislo z klavesnice a z toho citanie.csproj", "{19BB9718-D31C-4B93-95DF-A449A12AC6FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "continue", "continue\continue.csproj", "{EECD0F6C-0DDC-4F55-A803-7C1C884B1E28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -745,6 +751,42 @@ Global
 		{E4478AEF-B119-4948-9797-EB60F90E9519}.Release|x64.Build.0 = Release|Any CPU
 		{E4478AEF-B119-4948-9797-EB60F90E9519}.Release|x86.ActiveCfg = Release|Any CPU
 		{E4478AEF-B119-4948-9797-EB60F90E9519}.Release|x86.Build.0 = Release|Any CPU
+		{2BA67598-10B8-47DF-AE2B-C67A2E1A840A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA67598-10B8-47DF-AE2B-C67A2E1A840A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA67598-10B8-47DF-AE2B-C67A2E1A840A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2BA67598-10B8-47DF-AE2B-C67A2E1A840A}.Debug|x64.Build.0 = Debug|Any CPU
+		{2BA67598-10B8-47DF-AE2B-C67A2E1A840A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2BA67598-10B8-47DF-AE2B-C67A2E1A840A}.Debug|x86.Build.0 = Debug|Any CPU
+		{2BA67598-10B8-47DF-AE2B-C67A2E1A840A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA67598-10B8-47DF-AE2B-C67A2E1A840A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA67598-10B8-47DF-AE2B-C67A2E1A840A}.Release|x64.ActiveCfg = Release|Any CPU
+		{2BA67598-10B8-47DF-AE2B-C67A2E1A840A}.Release|x64.Build.0 = Release|Any CPU
+		{2BA67598-10B8-47DF-AE2B-C67A2E1A840A}.Release|x86.ActiveCfg = Release|Any CPU
+		{2BA67598-10B8-47DF-AE2B-C67A2E1A840A}.Release|x86.Build.0 = Release|Any CPU
+		{19BB9718-D31C-4B93-95DF-A449A12AC6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BB9718-D31C-4B93-95DF-A449A12AC6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BB9718-D31C-4B93-95DF-A449A12AC6FE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{19BB9718-D31C-4B93-95DF-A449A12AC6FE}.Debug|x64.Build.0 = Debug|Any CPU
+		{19BB9718-D31C-4B93-95DF-A449A12AC6FE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{19BB9718-D31C-4B93-95DF-A449A12AC6FE}.Debug|x86.Build.0 = Debug|Any CPU
+		{19BB9718-D31C-4B93-95DF-A449A12AC6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BB9718-D31C-4B93-95DF-A449A12AC6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19BB9718-D31C-4B93-95DF-A449A12AC6FE}.Release|x64.ActiveCfg = Release|Any CPU
+		{19BB9718-D31C-4B93-95DF-A449A12AC6FE}.Release|x64.Build.0 = Release|Any CPU
+		{19BB9718-D31C-4B93-95DF-A449A12AC6FE}.Release|x86.ActiveCfg = Release|Any CPU
+		{19BB9718-D31C-4B93-95DF-A449A12AC6FE}.Release|x86.Build.0 = Release|Any CPU
+		{EECD0F6C-0DDC-4F55-A803-7C1C884B1E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECD0F6C-0DDC-4F55-A803-7C1C884B1E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECD0F6C-0DDC-4F55-A803-7C1C884B1E28}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EECD0F6C-0DDC-4F55-A803-7C1C884B1E28}.Debug|x64.Build.0 = Debug|Any CPU
+		{EECD0F6C-0DDC-4F55-A803-7C1C884B1E28}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EECD0F6C-0DDC-4F55-A803-7C1C884B1E28}.Debug|x86.Build.0 = Debug|Any CPU
+		{EECD0F6C-0DDC-4F55-A803-7C1C884B1E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECD0F6C-0DDC-4F55-A803-7C1C884B1E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECD0F6C-0DDC-4F55-A803-7C1C884B1E28}.Release|x64.ActiveCfg = Release|Any CPU
+		{EECD0F6C-0DDC-4F55-A803-7C1C884B1E28}.Release|x64.Build.0 = Release|Any CPU
+		{EECD0F6C-0DDC-4F55-A803-7C1C884B1E28}.Release|x86.ActiveCfg = Release|Any CPU
+		{EECD0F6C-0DDC-4F55-A803-7C1C884B1E28}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

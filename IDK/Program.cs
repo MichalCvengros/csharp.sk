@@ -14,7 +14,7 @@ for (int i = 1; i <= 1000; i++)
 }
 
 
-
+/*
 int u = 1;
 
 while (u <= 1000)
@@ -22,3 +22,4 @@ while (u <= 1000)
     Console.WriteLine(u);
     u++;
 }
+*/
