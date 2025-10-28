@@ -119,6 +119,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "continue", "continue\contin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text vypisanie s iným pismom", "Text vypisanie s iným pismom\Text vypisanie s iným pismom.csproj", "{CCF89E7A-1A99-4697-9C29-B1E3B7E4B9F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subor", "Subor\Subor.csproj", "{55A5C5CE-5EFB-4B74-B4BE-7FAFB1CDCD13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -801,6 +803,18 @@ Global
 		{CCF89E7A-1A99-4697-9C29-B1E3B7E4B9F8}.Release|x64.Build.0 = Release|Any CPU
 		{CCF89E7A-1A99-4697-9C29-B1E3B7E4B9F8}.Release|x86.ActiveCfg = Release|Any CPU
 		{CCF89E7A-1A99-4697-9C29-B1E3B7E4B9F8}.Release|x86.Build.0 = Release|Any CPU
+		{55A5C5CE-5EFB-4B74-B4BE-7FAFB1CDCD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A5C5CE-5EFB-4B74-B4BE-7FAFB1CDCD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A5C5CE-5EFB-4B74-B4BE-7FAFB1CDCD13}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{55A5C5CE-5EFB-4B74-B4BE-7FAFB1CDCD13}.Debug|x64.Build.0 = Debug|Any CPU
+		{55A5C5CE-5EFB-4B74-B4BE-7FAFB1CDCD13}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{55A5C5CE-5EFB-4B74-B4BE-7FAFB1CDCD13}.Debug|x86.Build.0 = Debug|Any CPU
+		{55A5C5CE-5EFB-4B74-B4BE-7FAFB1CDCD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A5C5CE-5EFB-4B74-B4BE-7FAFB1CDCD13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A5C5CE-5EFB-4B74-B4BE-7FAFB1CDCD13}.Release|x64.ActiveCfg = Release|Any CPU
+		{55A5C5CE-5EFB-4B74-B4BE-7FAFB1CDCD13}.Release|x64.Build.0 = Release|Any CPU
+		{55A5C5CE-5EFB-4B74-B4BE-7FAFB1CDCD13}.Release|x86.ActiveCfg = Release|Any CPU
+		{55A5C5CE-5EFB-4B74-B4BE-7FAFB1CDCD13}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
