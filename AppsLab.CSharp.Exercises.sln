@@ -131,6 +131,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble sorce", "Bubble sorc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoznam študentov", "Zoznam študentov\Zoznam študentov.csproj", "{116C2880-875B-4675-8DE0-4F981FDA824F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vykreslenie 4-uholnika", "vykreslenie 4-uholnika\vykreslenie 4-uholnika.csproj", "{52C101EA-7B13-494F-B637-7B8B502076BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -885,6 +887,18 @@ Global
 		{116C2880-875B-4675-8DE0-4F981FDA824F}.Release|x64.Build.0 = Release|Any CPU
 		{116C2880-875B-4675-8DE0-4F981FDA824F}.Release|x86.ActiveCfg = Release|Any CPU
 		{116C2880-875B-4675-8DE0-4F981FDA824F}.Release|x86.Build.0 = Release|Any CPU
+		{52C101EA-7B13-494F-B637-7B8B502076BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C101EA-7B13-494F-B637-7B8B502076BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C101EA-7B13-494F-B637-7B8B502076BB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{52C101EA-7B13-494F-B637-7B8B502076BB}.Debug|x64.Build.0 = Debug|Any CPU
+		{52C101EA-7B13-494F-B637-7B8B502076BB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{52C101EA-7B13-494F-B637-7B8B502076BB}.Debug|x86.Build.0 = Debug|Any CPU
+		{52C101EA-7B13-494F-B637-7B8B502076BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C101EA-7B13-494F-B637-7B8B502076BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C101EA-7B13-494F-B637-7B8B502076BB}.Release|x64.ActiveCfg = Release|Any CPU
+		{52C101EA-7B13-494F-B637-7B8B502076BB}.Release|x64.Build.0 = Release|Any CPU
+		{52C101EA-7B13-494F-B637-7B8B502076BB}.Release|x86.ActiveCfg = Release|Any CPU
+		{52C101EA-7B13-494F-B637-7B8B502076BB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
